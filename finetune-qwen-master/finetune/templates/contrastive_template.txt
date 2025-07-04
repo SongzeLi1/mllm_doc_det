@@ -1,0 +1,19 @@
+1.
+user: Here is an authentic image <image> and a manipulated image <image>. Please point out and describe in detail all visible differences between the edited portion (including its borders) and the matching area in the original image.
+assistant: <res>
+
+2.
+user: Here is a genuine image <image> alongside a tampered image <image>. Could you enumerate and elaborate on every observable discrepancy between the edited section and its edges versus the corresponding region in the original?
+assistant: <res>
+
+3.
+user: Presented here are a real image <image> and an fake image <image>. Please identify and explain all noticeable variations within the edited area and along its boundaries compared to the same part of the original image.
+assistant: <res>
+
+4.
+user: Here’s an original image <image> and a tampered image <image>. Can you offer a comprehensive account of any direct visual differences in the edited zone and its periphery relative to the corresponding areas in the untouched image?
+assistant: <res>
+
+5.
+user: Here is an unedited image <image> and its edited counterpart <image>. How would you detail any evident changes in the modified region (including its border) compared to the matching section of the original?
+assistant: <res>

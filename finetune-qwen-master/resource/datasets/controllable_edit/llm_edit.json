@@ -1,0 +1,818 @@
+[
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_087.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_087.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_087.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_087.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_036.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_036.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_036.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_036.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_071.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_071.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_071.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_071.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_138.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_138.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_138.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_138.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_106.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_106.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_106.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_106.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_069.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_069.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_069.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_069.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_123.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_123.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_123.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_123.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_103.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_103.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_103.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_103.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_131.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_131.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_131.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_131.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_080.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_080.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_080.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_080.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_085.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_085.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_085.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_085.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_096.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_096.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_096.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_096.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_091.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_091.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_091.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_091.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_029.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_029.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_029.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_029.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_092.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_092.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_092.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_092.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_032.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_032.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_032.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_032.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_110.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_110.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_110.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_110.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_059.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_059.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_059.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_059.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_027.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_027.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_027.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_027.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_020.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_020.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_020.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_020.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_055.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_055.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_055.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_055.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_128.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_128.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_128.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_128.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_042.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_042.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_042.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_042.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_046.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_046.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_046.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_046.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_060.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_060.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_060.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_060.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_079.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_079.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_079.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_079.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_043.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_043.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_043.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_043.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_063.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_063.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_063.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_063.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_074.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_074.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_074.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_074.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_039.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_039.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_039.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_039.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_014.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_014.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_014.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_014.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_137.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_137.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_137.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_137.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_127.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_127.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_127.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_127.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_058.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_058.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_058.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_058.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_098.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_098.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_098.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_098.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_116.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_116.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_116.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_116.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_008.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_008.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_008.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_008.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_139.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_139.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_139.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_139.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_115.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_115.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_115.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_115.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_031.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_031.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_031.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_031.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_016.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_016.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_016.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_016.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_099.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_099.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_099.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_099.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_002.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_002.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_002.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_002.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_065.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_065.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_065.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_065.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_005.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_005.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_005.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_005.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_037.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_037.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_037.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_037.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_007.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_007.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_007.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_007.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_111.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_111.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_111.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_111.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_082.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_082.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_082.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_082.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_121.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_121.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_121.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_121.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_048.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_048.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_048.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_048.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_122.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_122.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_122.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_122.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_051.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_051.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_051.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_051.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_028.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_028.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_028.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_028.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_118.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_118.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_118.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_118.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_004.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_004.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_004.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_004.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_100.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_100.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_100.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_100.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_135.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_135.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_135.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_135.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_070.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_070.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_070.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_070.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_126.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_126.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_126.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_126.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_052.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_052.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_052.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_052.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_109.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_109.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_109.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_109.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_117.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_117.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_117.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_117.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_041.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_041.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_041.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_041.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_054.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_054.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_054.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_054.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_107.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_107.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_107.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_107.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_124.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_124.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_124.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_124.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_019.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_019.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_019.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_019.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_001.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_001.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_001.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_001.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_012.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_012.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_012.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_012.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_073.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_073.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_073.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_073.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_045.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_045.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_045.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_045.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_140.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_140.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_140.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_140.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_068.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_068.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_068.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_068.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_024.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_024.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_024.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_024.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_013.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_013.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_013.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_013.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_133.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_133.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_133.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_133.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_035.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_035.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_035.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_035.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_040.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_040.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_040.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_040.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_010.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_010.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_010.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_010.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_105.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_105.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_105.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_105.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_077.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_077.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_077.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_077.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_136.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_136.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_136.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_136.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_033.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_033.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_033.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_033.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_061.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_061.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_061.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_061.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_025.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_025.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_025.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_025.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_101.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_101.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_101.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_101.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_097.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_097.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_097.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_097.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_108.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_108.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_108.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_108.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_030.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_030.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_030.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_030.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_072.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_072.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_072.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_072.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_066.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_066.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_066.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_066.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_022.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_022.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_022.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_022.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_130.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_130.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_130.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_130.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_120.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_120.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_120.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_120.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_011.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_011.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_011.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_011.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_064.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_064.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_064.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_064.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_038.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_038.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_038.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_038.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_018.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_018.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_018.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_018.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_081.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_081.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_081.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_081.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_056.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_056.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_056.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_056.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_084.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_084.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_084.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_084.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_003.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_003.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_003.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_003.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_093.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_093.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_093.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_093.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_088.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_088.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_088.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_088.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_023.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_023.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_023.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_023.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_104.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_104.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_104.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_104.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_049.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_049.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_049.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_049.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_125.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_125.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_125.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_125.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_026.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_026.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_026.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_026.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_094.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_094.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_094.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_094.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_047.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_047.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_047.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_047.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_078.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_078.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_078.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_078.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_089.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_089.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_089.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_089.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_006.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_006.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_006.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_006.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_053.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_053.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_053.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_053.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_021.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_021.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_021.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_021.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_114.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_114.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_114.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_114.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_090.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_090.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_090.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_090.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_119.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_119.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_119.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_119.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_086.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_086.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_086.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_086.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_067.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_067.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_067.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_067.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_050.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_050.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_050.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_050.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_062.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_062.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_062.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_062.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_057.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_057.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_057.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_057.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_015.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_015.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_015.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_015.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_044.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_044.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_044.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_044.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_141.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_141.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_141.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_141.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_017.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_017.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_017.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_017.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_009.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_009.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_009.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_009.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_102.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_102.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_102.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_102.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_076.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_076.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_076.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_076.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_112.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_112.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_112.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_112.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_095.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_095.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_095.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_095.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_075.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_075.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_075.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_075.jpg"
+    },
+    {
+        "real_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Au/real_132.jpg",
+        "fake_image": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Tp/fake_132.jpg",
+        "pixel_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/pixel_gt_132.jpg",
+        "lpips_gt_mask": "/home/yuyangxin/data/dataset/custom_dataset/llm_edit/Gt/lpips_gt_132.jpg"
+    }
+]

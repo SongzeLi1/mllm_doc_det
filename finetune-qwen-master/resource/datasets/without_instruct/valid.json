@@ -1,0 +1,12 @@
+[
+    [
+        "/home/yuyangxin/data/dataset/MagicBrush/images/147501/147501-output1.png",
+        "/home/yuyangxin/data/dataset/MagicBrush/fake_mask/147501_mask.png",
+        1
+    ],
+    [
+        "/home/yuyangxin/data/dataset/MagicBrush/images/21404/21404-output1.png",
+        "/home/yuyangxin/data/dataset/MagicBrush/fake_mask/21404_mask.png",
+        1
+    ]
+]

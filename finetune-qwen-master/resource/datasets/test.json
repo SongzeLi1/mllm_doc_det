@@ -1,0 +1,8 @@
+{
+    "columbia": "/home/yuyangxin/data/finetune-qwen/resource/datasets/without_instruct/columbia.json",
+    "coverage": "/home/yuyangxin/data/finetune-qwen/resource/datasets/without_instruct/coverage.json",
+    "IMD2020": "/home/yuyangxin/data/finetune-qwen/resource/datasets/without_instruct/IMD2020.json",
+    "NIST16": "/home/yuyangxin/data/finetune-qwen/resource/datasets/without_instruct/NIST16.json",
+    "MagicBrush": "/home/yuyangxin/data/finetune-qwen/resource/datasets/without_instruct/MagicBrush.json",
+    "smartEdit": "/home/yuyangxin/data/finetune-qwen/resource/datasets/without_instruct/smartedit.json"
+}

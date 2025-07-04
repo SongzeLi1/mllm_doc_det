@@ -1,0 +1,32 @@
+{
+"isGitignoreExtActive": true,
+"cSpell.words": [
+  "accs",
+  "albu",
+  "aluminium",
+  "anybench",
+  "automodel",
+  "bboxes",
+  "binarize",
+  "ckpts",
+  "DBSCAN",
+  "hiera",
+  "ious",
+  "jaccard",
+  "keepends",
+  "kmeans",
+  "lpips",
+  "ncols",
+  "ngram",
+  "nprmodel",
+  "ploygons",
+  "preds",
+  "Qwen",
+  "trufor",
+  "unsqueezed"
+],
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}",
+    "/home/yuyangxin/data/sam2"
+  ]
+}

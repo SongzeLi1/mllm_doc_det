@@ -1,0 +1,11 @@
+1. 
+user: Determine the authenticity of this image. Please provide the response in JSON format.
+assistant: <res>
+
+2.
+user: Confirm whether this image has been edited. Please provide the response in JSON format.
+assistant: <res>
+
+3.
+user: Can you verify the authenticity of this image? Please output in JSON format.
+assistant: <res>
